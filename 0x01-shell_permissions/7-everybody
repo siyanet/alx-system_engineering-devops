@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod ugo+u hello
+sudo chmod 777 hello
