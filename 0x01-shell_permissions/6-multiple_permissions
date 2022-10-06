@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown 114 hello
+sudo chmod go+x, u+r hello
